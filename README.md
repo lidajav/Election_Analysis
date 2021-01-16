@@ -19,4 +19,5 @@ This project is to audit a local election in US by doing the following tasks.
 - The county with the most popular votes was : Denver
 - This were a total of three candidates received voted for this election.
 
-    ![Breakdown of candidates' votes]
+    ![Breakdown of candidates' votes](Resources/Candidate_votes.png)
+    
