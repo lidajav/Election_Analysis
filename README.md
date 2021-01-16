@@ -14,5 +14,5 @@ This project is to audit a local election in US by doing the following tasks.
 - The total number of votes were : 369,711
 - There were a total of 3 counties for this count. 
 
-![Breakdown of County votes](Resources/County_votes.png) 
+    ![Breakdown of County votes](Resources/County_votes.png) 
   
