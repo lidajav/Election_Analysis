@@ -25,4 +25,16 @@ This project is to audit a local election in US by doing the following tasks.
 
 ## Election-Audit Summary :
 
-This election can be used for other election
+We can modify the code to pass the file names and folders as variables to open files for read and write.
+Below is the modified code.
+
+![change the open files by accepting variables instaed of string](Resources/modifying_code_files.png)
+
+We can also go further by accepting the output file by getting it from the user
+
+![Accepting outputfile from user](Resources/modifying_code_outputfile.png)
+
+We can also add the winning county percentage and total votes to display.(The codes are identified as comments)
+
+![Add more metrics to winning county]((Resources/modifying_code_winning_county.png)
+
