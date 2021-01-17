@@ -22,3 +22,7 @@ This project is to audit a local election in US by doing the following tasks.
     ![Breakdown of candidates' votes](Resources/Candidate_votes.png)
     
 - The winning candidate was Diana DeGette
+
+## Election-Audit Summary :
+
+This election can be used for other election
