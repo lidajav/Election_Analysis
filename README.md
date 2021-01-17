@@ -36,5 +36,7 @@ We can also go further by accepting the output file by getting it from the user
 
 We can also add the winning county percentage and total votes to display.(The codes are identified as comments)
 
-![Add more metrics to winning county]()
+![Add more metrics to winning county](Resources/modifying_code_winning_couty.png)
+
+
 
