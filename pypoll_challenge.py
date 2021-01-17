@@ -4,12 +4,12 @@
 # Add our dependencies.
 import csv
 import os
-
+#
 # Add a variable to load a file from a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
-#file_to_load = os.path.join("..", "Resources", "election_results.csv")
+
 # Assign a variable to save the file to a path.
-file_to_save = os.path.join("analysis", "election_result.txt")
+file_to_save = os.path.join("analysis", "election_result.txt" )
 
 
 # Initialize  total vote counters for candidates and counties
